@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hi there, I'm Rossy Arvelo!
 
-<!--
-**RossyElania/RossyElania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a positive and curious person who loves learning new things every day. I always try to grow and do better in my work and in life. I have experience in Accounting and Finance, and now I’m learning Software Engineering and Data Analytics. I enjoy working with data and using Python to create automations and solve problems, especially in the financial area.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+
+- **Universidad Autónoma de Santo Domingo (UASD)**  
+  *Bachelor's in Accounting and Finance* (Graduating Soon)
+
+- **Instituto Tecnológico de las Américas (ITLA)**  
+  *Software Engineering & Data Analytics Student*
+
+---
+
+## 💼 Experience Highlights
+
+I specialize in **Workforce Management (WFM)**, **real-time analytics**, and **data-driven operational insights**. Here are some key areas I’ve managed:
+
+- **Service Level, ASA, Abandonment Rate** – Ensured timely responses and customer satisfaction  
+- **Adherence to Schedule** – Monitored agent compliance with shifts and activities  
+- **Real-Time Shrinkage & Occupancy** – Balanced staffing supply vs. customer demand  
+- **Agent AUX & Status Monitoring** – Maintained live coverage across all channels  
+- **Forecast Accuracy** – Compared projected vs. actual volumes for staffing adjustments  
+- **Queue Time & Longest Wait** – Tracked to stay within SLA and reduce delays  
+
+---
+
+## Key Skills
+
+### Hard Skills
+- **WFM Tools**: NICE IEX, Genesys WFM, Calabrio, Teleopti, Five9  
+- **Real-Time & BI Tools**: Power BI, Tableau, Google Data Studio, NICE RT Dashboards, AWS Connect  
+- **Excel**: Advanced formulas, dashboards, data validation, permissions  
+- **SQL**: PostgreSQL, MySQL (Basic querying)  
+- **CRM & Ticketing**: Salesforce, Zendesk, Freshdesk, Jira, HubSpot  
+- **Google Workspace**: Sheets, Docs, Slides, Gmail  
+- **Communication Tools**: Slack, Microsoft Teams, Zoom, Google Meet, Outlook
+
+### Soft Skills
+- Analytical Thinking  
+- Real-Time Decision Making  
+- Attention to Detail  
+- Team Collaboration  
+- Time Management  
+- Crisis Management
+
+### Languages
+- **Spanish** – Native  
+- **English** – C2 (Fluent)
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/rossy-arvelo-64678a137/)  
+- 📬 Email: rossy.elania@gmail.com
+
+---
+
+Thanks for stopping by! I'm always open to connect with professionals in data, tech, and finance 🌟
