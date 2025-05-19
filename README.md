@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Rossy Arvelo!
 
-I’m a positive and curious person who loves learning new things every day. I always try to grow and do better in my work and in life. I have experience in Accounting and Finance, and now I’m learning Software Engineering and Data Analytics. I enjoy working with data and using Python to create automations and solve problems, especially in the financial area.
+I'm a positive and curious person who enjoys learning new things and challenging myself through new experiences. I'm currently completing my degree in Accounting and Finance, and I'm complementing my education with a Data Science program to improve my technical and analytical skills.
 
 
 ## 🎓 Education
