@@ -6,7 +6,7 @@ I'm a positive and curious person who enjoys learning new things and challenging
 ## 🎓 Education
 
 - **Universidad Autónoma de Santo Domingo (UASD)**  
-  *Bachelor's in Accounting and Finance* (Graduating Soon)
+  *Bachelor's in Accounting and Finance* 
 
 - **Instituto Tecnológico de las Américas (ITLA)**  
   *Software Engineering & Data Analytics Student*
