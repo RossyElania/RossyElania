@@ -121,7 +121,7 @@ I'm interested in international opportunities involving:
 
 📩 Feel free to connect with me!
 
-[LinkedIn](https://www.linkedin.com/in/rossy-arvelo-64678a137/) | [Email] (rossy.elania@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rossy-arvelo-64678a137/) | [Email] (mailto:rossy.elania@gmail.com)
 
 ---
 
