@@ -1,61 +1,129 @@
-# 👋 Hi there, I'm Rossy Arvelo!
+# Hi, I'm Rossy Arvelo! 👋
 
-I'm a positive and curious person who enjoys learning new things and challenging myself through new experiences. I'm currently completing my degree in Accounting and Finance, and I'm complementing my education with a Data Science program to improve my technical and analytical skills.
+### Five9 Implementation & Integration Specialist
+**Contact Center Solutions | CRM Integrations | API & Reporting**
 
-
-## 🎓 Education
-
-- **Universidad Autónoma de Santo Domingo (UASD)**  
-  *Bachelor's in Accounting and Finance* 
-
-- **Instituto Tecnológico de las Américas (ITLA)**  
-  *Software Engineering & Data Analytics Student*
+📍 Santo Domingo, Dominican Republic  
+🌎 Open to International Remote Opportunities
 
 ---
 
-## 💼 Experience Highlights
+## 👩‍💻 About Me
 
-I specialize in **Workforce Management (WFM)**, **real-time analytics**, and **data-driven operational insights**. Here are some key areas I’ve managed:
+I'm a Contact Center Technology Specialist with 1–2 years of hands-on experience implementing, configuring, integrating, and supporting **Five9 Intelligent Cloud Contact Center** solutions.
 
-- **Service Level, ASA, Abandonment Rate** – Ensured timely responses and customer satisfaction  
-- **Adherence to Schedule** – Monitored agent compliance with shifts and activities  
-- **Real-Time Shrinkage & Occupancy** – Balanced staffing supply vs. customer demand  
-- **Agent AUX & Status Monitoring** – Maintained live coverage across all channels  
-- **Forecast Accuracy** – Compared projected vs. actual volumes for staffing adjustments  
-- **Queue Time & Longest Wait** – Tracked to stay within SLA and reduce delays  
+My experience focuses on transforming business requirements into technical solutions, optimizing Contact Center operations, and connecting Five9 with enterprise CRM platforms and external applications.
 
----
+I have worked with platforms such as **Salesforce, Zendesk, Odoo, Sygma**, and other CRM systems, configuring Five9 integrations to improve agent workflows and customer interactions.
 
-## Key Skills
-
-### Hard Skills
-- **WFM Tools**: NICE IEX, Genesys WFM, Calabrio, Teleopti, Five9  
-- **Real-Time & BI Tools**: Power BI, Tableau, Google Data Studio, NICE RT Dashboards, AWS Connect  
-- **Excel**: Advanced formulas, dashboards, data validation, permissions  
-- **SQL**: PostgreSQL, MySQL (Basic querying)  
-- **CRM & Ticketing**: Salesforce, Zendesk, Freshdesk, Jira, HubSpot  
-- **Google Workspace**: Sheets, Docs, Slides, Gmail  
-- **Communication Tools**: Slack, Microsoft Teams, Zoom, Google Meet, Outlook
-
-### Soft Skills
-- Analytical Thinking  
-- Real-Time Decision Making  
-- Attention to Detail  
-- Team Collaboration  
-- Time Management  
-- Crisis Management
-
-### Languages
-- **Spanish** – Native  
-- **English** – C2 (Fluent)
+I also work with Five9 APIs to retrieve operational data, analyze statistics, support reporting initiatives, and contribute to external tools and dashboards for Contact Center monitoring.
 
 ---
 
-## 📫 Let’s Connect
+## 🚀 Core Expertise
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/rossy-arvelo-64678a137/)  
-- 📬 Email: rossy.elania@gmail.com
+### ☎️ Five9 Contact Center Implementation
+- IVR Design and Configuration
+- Inbound & Outbound Campaign Management
+- Skills Configuration and Call Routing
+- Queue Management and Overflow Strategies
+- Agent Profiles and Administration
+- Automatic & Preview Dialing
+- WhatsApp and Digital Engagement
+- Call Dispositions and Custom Variables
+- Call Recording and Post-Call Surveys
+- Business Hours and Holiday Schedules
+
+### 🔗 CRM & Platform Integrations
+- Five9 + Salesforce
+- Five9 + Zendesk
+- Five9 + Odoo
+- Five9 + Sygma
+- CRM / CTI Integration Configuration
+- Cross-platform Workflow Validation
+- Integration Troubleshooting
+
+### 🔌 APIs, Reporting & External Tools
+- Five9 API Integration and Data Retrieval
+- GetStatistics
+- GetStatisticsUpdate
+- API Response Analysis
+- Contact Center Statistics
+- External Dashboards and Reporting Tools
+- Agent and Campaign Performance Monitoring
+- Operational Data Analysis
+- Reporting Automation Opportunities
+
+### 🛠️ Technical Support & Troubleshooting
+- Root Cause Analysis (RCA)
+- Technical Incident Investigation
+- API and Integration Troubleshooting
+- WebSocket Connectivity Analysis
+- Functional Testing and UAT
+- Technical Documentation
+- Platform Performance Investigation
 
 ---
 
-Thanks for stopping by! I'm always open to connect with professionals in data, tech, and finance 🌟
+## 🧰 Technology & Tools
+
+| Category | Technologies |
+|---|---|
+| Contact Center | Five9 Intelligent Cloud Contact Center |
+| CRM Platforms | Salesforce, Zendesk, Odoo, Sygma |
+| APIs | Five9 APIs, GetStatistics, GetStatisticsUpdate |
+| Reporting | Five9 Reporting, Operational Analytics |
+| Omnichannel | Voice, WhatsApp, Digital Engagement |
+| Integration | CRM, CTI, API-based integrations |
+| Support | Troubleshooting, RCA, UAT |
+
+---
+
+## 💡 What I Do
+
+- Implement and optimize cloud-based Contact Center solutions.
+- Connect Five9 with CRM and enterprise business applications.
+- Analyze operational data through Five9 APIs.
+- Support the design of external dashboards and monitoring tools.
+- Investigate complex technical issues and integration failures.
+- Translate business requirements into practical technical solutions.
+- Collaborate with customers and technical teams throughout implementation projects.
+
+---
+
+## 🌱 Professional Development
+
+Currently focused on expanding my knowledge in:
+
+- Contact Center Architecture
+- API Integrations and Automation
+- CRM and Enterprise Systems Integration
+- Data Analytics and Reporting
+- Cloud-Based Contact Center Solutions
+
+---
+
+## 🌐 Languages
+
+- Spanish: Native
+- English: Intermediate
+
+---
+
+## 🤝 Let's Connect!
+
+I'm interested in international opportunities involving:
+
+- Five9 Implementation
+- Contact Center Engineering
+- CRM & CTI Integrations
+- Technical Solutions Engineering
+- Contact Center Systems Administration
+
+📩 Feel free to connect with me!
+
+[LinkedIn] https://www.linkedin.com/in/rossy-arvelo-64678a137/ | rossy.elania@gmail.com
+
+---
+
+⭐ *Passionate about technology, integrations, and building better Contact Center experiences.*
