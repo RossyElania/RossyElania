@@ -4,7 +4,6 @@
 **Contact Center Solutions | CRM Integrations | API & Reporting**
 
 📍 Santo Domingo, Dominican Republic  
-🌎 Open to International Remote Opportunities
 
 ---
 
@@ -122,7 +121,7 @@ I'm interested in international opportunities involving:
 
 📩 Feel free to connect with me!
 
-[LinkedIn] https://www.linkedin.com/in/rossy-arvelo-64678a137/ | rossy.elania@gmail.com
+[LinkedIn](https://www.linkedin.com/in/rossy-arvelo-64678a137/) | [Email] (rossy.elania@gmail.com)
 
 ---
 
